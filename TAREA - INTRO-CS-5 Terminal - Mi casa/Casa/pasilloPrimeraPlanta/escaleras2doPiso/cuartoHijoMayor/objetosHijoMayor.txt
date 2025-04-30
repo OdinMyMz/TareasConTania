@@ -1,0 +1,11 @@
+
+
+	[	OBJETOS HIJO MAYOR	]
+
+ - Cama
+ - Escritorio
+ - Buro
+ - Mochila
+ - Libros
+ - Nintendo Switch
+

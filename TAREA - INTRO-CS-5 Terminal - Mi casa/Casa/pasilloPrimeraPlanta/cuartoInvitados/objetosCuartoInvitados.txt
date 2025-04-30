@@ -1,0 +1,9 @@
+
+
+	[	OBJETOS DEL CUARTO DE INVITADOS		]
+
+ - Cama
+ - Tocador
+ - Espejo
+ - Zapatero
+ - Armario

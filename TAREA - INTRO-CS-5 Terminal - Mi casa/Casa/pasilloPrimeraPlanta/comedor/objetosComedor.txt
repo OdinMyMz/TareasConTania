@@ -1,0 +1,10 @@
+
+
+	[	OBJETOS DEL COMEDOR	]
+
+ - Mesa comedor
+ - Sillas
+ - Lamparas
+ - Servilletas
+ - Mantel
+

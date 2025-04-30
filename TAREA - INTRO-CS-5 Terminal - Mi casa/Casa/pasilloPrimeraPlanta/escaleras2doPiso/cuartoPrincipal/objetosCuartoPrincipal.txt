@@ -1,0 +1,12 @@
+
+
+	[	OBJETOS DEL CUARTO PRINCIPAL	]
+
+ - Cama
+ - Tocador
+ - Buro
+ - Espejo
+ - Zapatero
+ - Armario
+ - Cosmetiquero
+

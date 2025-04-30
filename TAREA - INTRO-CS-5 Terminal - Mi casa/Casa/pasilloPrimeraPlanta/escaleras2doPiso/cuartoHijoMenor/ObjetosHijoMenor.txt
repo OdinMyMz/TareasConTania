@@ -1,0 +1,10 @@
+
+
+		[	OBJETOS HIJO MENOR	]
+
+ - Cama
+ - Mochila
+ - Libretas
+ - Buro
+ - 3DS
+ - Juguetes
